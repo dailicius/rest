@@ -1,0 +1,15 @@
+{
+  "app": {
+    "name": "MyRestAPI",
+    "version": "1.0.0",
+    "description": "Simple REST API with plugin-based architecture",
+    "author": "you"
+  },
+  "server": {
+    "port": 3000,
+    "host": "0.0.0.0"
+  },
+  "api": {
+    "prefix": "/plug"
+  }
+}
